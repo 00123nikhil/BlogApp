@@ -1,0 +1,11 @@
+My notes
+
+1.please connect your db to cloud this is just a note not for this page.
+sometimes it is disconnect due to some reason. i suggest add your current ip to your database cloud. as per suggestion.
+
+2. timestamp 1.22.47 after completion registration and logged in via username and  password successfully 
+
+***open cmd and run commands
+ * node index.js
+ * ctrl+c
+ * nodemon index.js
